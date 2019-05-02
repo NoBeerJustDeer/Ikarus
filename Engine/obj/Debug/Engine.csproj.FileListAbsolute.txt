@@ -1,0 +1,6 @@
+C:\Users\Yash\source\repos\Jewels Of Inkonta ß\Engine\obj\Debug\Engine.csprojAssemblyReference.cache
+C:\Users\Yash\source\repos\Jewels Of Inkonta ß\Engine\obj\Debug\Engine.csproj.CoreCompileInputs.cache
+C:\Users\Yash\source\repos\Jewels Of Inkonta ß\Engine\bin\Debug\Engine.dll
+C:\Users\Yash\source\repos\Jewels Of Inkonta ß\Engine\bin\Debug\Engine.pdb
+C:\Users\Yash\source\repos\Jewels Of Inkonta ß\Engine\obj\Debug\Engine.dll
+C:\Users\Yash\source\repos\Jewels Of Inkonta ß\Engine\obj\Debug\Engine.pdb

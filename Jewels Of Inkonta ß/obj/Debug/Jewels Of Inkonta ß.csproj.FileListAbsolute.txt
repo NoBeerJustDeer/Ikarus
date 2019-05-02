@@ -1,0 +1,15 @@
+C:\Users\Yash\source\repos\Jewels Of Inkonta ß\Jewels Of Inkonta ß\obj\Debug\Jewels Of Inkonta ß.csprojAssemblyReference.cache
+C:\Users\Yash\source\repos\Jewels Of Inkonta ß\Jewels Of Inkonta ß\obj\Debug\Jewels_Of_Inkonta_ß.Frm_Menu.resources
+C:\Users\Yash\source\repos\Jewels Of Inkonta ß\Jewels Of Inkonta ß\obj\Debug\Jewels_Of_Inkonta_ß.Frm_CharCreate.resources
+C:\Users\Yash\source\repos\Jewels Of Inkonta ß\Jewels Of Inkonta ß\obj\Debug\Jewels_Of_Inkonta_ß.Frm_Gaem.resources
+C:\Users\Yash\source\repos\Jewels Of Inkonta ß\Jewels Of Inkonta ß\obj\Debug\Jewels_Of_Inkonta_ß.Properties.Resources.resources
+C:\Users\Yash\source\repos\Jewels Of Inkonta ß\Jewels Of Inkonta ß\obj\Debug\Jewels Of Inkonta ß.csproj.GenerateResource.cache
+C:\Users\Yash\source\repos\Jewels Of Inkonta ß\Jewels Of Inkonta ß\obj\Debug\Jewels Of Inkonta ß.csproj.CoreCompileInputs.cache
+C:\Users\Yash\source\repos\Jewels Of Inkonta ß\Jewels Of Inkonta ß\bin\Debug\Jewels Of Inkonta ß.exe.config
+C:\Users\Yash\source\repos\Jewels Of Inkonta ß\Jewels Of Inkonta ß\bin\Debug\Jewels Of Inkonta ß.exe
+C:\Users\Yash\source\repos\Jewels Of Inkonta ß\Jewels Of Inkonta ß\bin\Debug\Jewels Of Inkonta ß.pdb
+C:\Users\Yash\source\repos\Jewels Of Inkonta ß\Jewels Of Inkonta ß\bin\Debug\Engine.dll
+C:\Users\Yash\source\repos\Jewels Of Inkonta ß\Jewels Of Inkonta ß\bin\Debug\Engine.pdb
+C:\Users\Yash\source\repos\Jewels Of Inkonta ß\Jewels Of Inkonta ß\obj\Debug\Jewels Of Inkonta ß.csproj.CopyComplete
+C:\Users\Yash\source\repos\Jewels Of Inkonta ß\Jewels Of Inkonta ß\obj\Debug\Jewels Of Inkonta ß.exe
+C:\Users\Yash\source\repos\Jewels Of Inkonta ß\Jewels Of Inkonta ß\obj\Debug\Jewels Of Inkonta ß.pdb
