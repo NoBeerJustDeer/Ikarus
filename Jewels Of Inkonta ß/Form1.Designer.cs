@@ -31,6 +31,7 @@
             this.Btn_start = new System.Windows.Forms.Button();
             this.Btn_end = new System.Windows.Forms.Button();
             this.lbl_title = new System.Windows.Forms.Label();
+            this.Btn_close = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // Btn_start
@@ -62,14 +63,28 @@
             this.lbl_title.TabIndex = 2;
             this.lbl_title.Text = "Jewels of Inkonta ß";
             // 
+            // Btn_close
+            // 
+            this.Btn_close.Location = new System.Drawing.Point(725, 427);
+            this.Btn_close.Name = "Btn_close";
+            this.Btn_close.Size = new System.Drawing.Size(75, 23);
+            this.Btn_close.TabIndex = 3;
+            this.Btn_close.Text = "Close";
+            this.Btn_close.UseVisualStyleBackColor = true;
+            this.Btn_close.Click += new System.EventHandler(this.Btn_close_Click);
+            // 
             // Frm_Menu
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.Btn_close);
             this.Controls.Add(this.lbl_title);
             this.Controls.Add(this.Btn_end);
             this.Controls.Add(this.Btn_start);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.MaximizeBox = false;
             this.Name = "Frm_Menu";
             this.Text = "Jewels of inkonta ß";
             this.ResumeLayout(false);
@@ -82,6 +97,7 @@
         private System.Windows.Forms.Button Btn_start;
         private System.Windows.Forms.Button Btn_end;
         private System.Windows.Forms.Label lbl_title;
+        private System.Windows.Forms.Button Btn_close;
     }
 }
 
