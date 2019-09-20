@@ -20,9 +20,13 @@ namespace Jewels_Of_Inkonta_ß
         private void Btn_start_Click(object sender, EventArgs e)
         {
             Frm_CharCreate CharCre = new Frm_CharCreate();
-            //Close();
             CharCre.Show();
-         
+            this.Hide();
+        }
+
+        private void Btn_close_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
         }
     }
 }

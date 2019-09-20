@@ -17,7 +17,8 @@ namespace Jewels_Of_Inkonta_ß
         
         public Frm_Gaem()
         {
-            InitializeComponent();           
+            InitializeComponent();
+            this.Text = Frm_CharCreate.name;
             _player = new Player();
             _player.HP = 100;
             Pb_Health.Value = _player.HP;
@@ -25,7 +26,9 @@ namespace Jewels_Of_Inkonta_ß
             _player.Mana = 20;
         }
 
-       
-        
+        private void Btn_close_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }

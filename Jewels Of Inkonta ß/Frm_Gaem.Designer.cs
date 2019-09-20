@@ -31,6 +31,7 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Frm_Gaem));
             this.Pb_Health = new System.Windows.Forms.ProgressBar();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.Btn_close = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -50,13 +51,27 @@
             this.pictureBox1.TabIndex = 1;
             this.pictureBox1.TabStop = false;
             // 
+            // Btn_close
+            // 
+            this.Btn_close.Location = new System.Drawing.Point(812, 481);
+            this.Btn_close.Name = "Btn_close";
+            this.Btn_close.Size = new System.Drawing.Size(75, 23);
+            this.Btn_close.TabIndex = 4;
+            this.Btn_close.Text = "Close";
+            this.Btn_close.UseVisualStyleBackColor = true;
+            this.Btn_close.Click += new System.EventHandler(this.Btn_close_Click);
+            // 
             // Frm_Gaem
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(890, 507);
+            this.Controls.Add(this.Btn_close);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.Pb_Health);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.MaximizeBox = false;
             this.Name = "Frm_Gaem";
             this.Text = "Frm_Gaem";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
@@ -68,5 +83,6 @@
 
         private System.Windows.Forms.ProgressBar Pb_Health;
         private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.Button Btn_close;
     }
 }
